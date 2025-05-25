@@ -99,10 +99,21 @@ The models can be easily deployed via:
 | Fetal - Gradient Boosting    | ~90%    | —         | —      | —        |
 
 ---
+## What I Learned and How It Will Help Me
+
+- Gained experience building and managing two separate machine learning models for maternal and fetal health prediction.
+- Learned to preprocess and engineer features from diverse healthcare data, including physiological parameters and CTG signals.
+- Applied and tuned Gradient Boosting and other ML algorithms for classification tasks in a medical context.
+- Improved understanding of key maternal and fetal health indicators, bridging data science with healthcare domain knowledge.
+- Realized the impact of predictive analytics in enabling early risk detection and improving patient outcomes.
+
+**How This Helps Me:**  
+Enhances my technical skills in healthcare ML, strengthens problem-solving with real-world data, and boosts my profile for roles in AI-driven health technology, enabling me to contribute meaningfully to improving healthcare through data science.
+
 
 ## ✍️ Author
 - **[Kifayat Sayed]**  
   M.Sc. AI & ML | Data Science 
   📧 kifayatsayed301@gmail.com 
-  🌐 [LinkedIn](#) | [Portfolio](#)
+  🌐 [LinkedIn](https://www.linkedin.com/in/kifayat-sayed-9614a9244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](#)
 
