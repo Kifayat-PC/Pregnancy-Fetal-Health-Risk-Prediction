@@ -91,14 +91,6 @@ The models can be easily deployed via:
 
 ---
 
-## 📊 Results Summary
-
-| Model                    | Accuracy | Precision | Recall | F1 Score |
-|-------------------------|----------|-----------|--------|----------|
-| Maternal - Gradient Boosting | 84.2%   | 84.2%     | 84.2%  | 84.1%    |
-| Fetal - Gradient Boosting    | ~90%    | —         | —      | —        |
-
----
 ## What I Learned and How It Will Help Me
 
 - Gained experience building and managing two separate machine learning models for maternal and fetal health prediction.
