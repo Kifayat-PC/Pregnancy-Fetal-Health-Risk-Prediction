@@ -1,6 +1,6 @@
 # 🤰 Pregnancy & Fetal Health Risk Prediction
 
-# 🤖 Dual-Model Machine Learning for Maternal & Fetal Health Risk Prediction
+#  Dual-Model Machine Learning for Maternal & Fetal Health Risk Prediction
 
 A dual-model machine learning project aiming to improve maternal and fetal healthcare through predictive analytics. We built two separate classifiers:
 
@@ -101,8 +101,8 @@ The models can be easily deployed via:
 ---
 
 ## ✍️ Author
-- **[Your Name]**  
-  M.Sc. Data Science | Aspiring ML Engineer  
-  📧 your.email@example.com  
+- **[Kifayat Sayed]**  
+  M.Sc. AI & ML | Data Science 
+  📧 kifayatsayed301@gmail.com 
   🌐 [LinkedIn](#) | [Portfolio](#)
 
