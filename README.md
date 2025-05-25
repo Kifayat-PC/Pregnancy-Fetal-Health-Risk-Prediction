@@ -49,7 +49,7 @@ This repository presents a comprehensive machine learning pipeline for:
 
 ### 1. Maternal Health Risk Predictor (`PredictRisk`)
 - **Objective**: Classify maternal health risk into `Low`, `Mid`, or `High`.
-- **Dataset**: [Maternal Health Risk Data Set]([https://www.kaggle.com/datasets/andrewmvd/maternal-health-risk-data](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data))
+- **Dataset**: [Maternal Health Risk Data Set](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)
 - **Best Model**: Gradient Boosting Classifier
 - **Accuracy**: ~84%
 
